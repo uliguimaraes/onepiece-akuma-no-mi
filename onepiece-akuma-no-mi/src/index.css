@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mar: #0b1d3a;
+  --color-mar-claro: #12305c;
+  --color-ouro: #f5b942;
+  --color-pergaminho: #f6ecd2;
+}
+
+body {
+  @apply bg-mar text-pergaminho antialiased;
+}
