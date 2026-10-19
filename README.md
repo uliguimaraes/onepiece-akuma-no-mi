@@ -29,6 +29,16 @@ Aplicação web em React que lista as **Frutas do Diabo (Akuma no Mi)** de One P
 | Tailwind responsivo | Grid de 1 a 4 colunas (`sm:`, `lg:`, `xl:`), tema próprio em `index.css` |
 
 Extras: estado de loading, tratamento de erro com botão "Tentar de novo", modal de detalhes (fecha com ESC), favoritas salvas no `localStorage` e botão "Carregar mais".
+## Demonstração
+
+### Versão desktop
+
+![Catálogo Akuma no Mi em desktop](onepiece-akuma-no-mi/docs/screenshots/catalogo-desktop.png)
+
+### Versão mobile
+
+![Catálogo Akuma no Mi em mobile](onepiece-akuma-no-mi/docs/screenshots/catalogo-mobile.png)
+
 
 ## Estrutura do projeto
 
